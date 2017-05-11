@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76698" started-at="2017-05-02T10:17:34Z" finished-at="2017-05-02T10:18:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76698" started-at="2017-05-02T10:17:34Z" finished-at="2017-05-02T10:18:51Z">
+      <class name="com.planit.aviva.scripts.Stratbeans_01">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.planit.aviva.scripts.Stratbeans_01@6cc4c815]" name="setup" is-config="true" duration-ms="5762" started-at="2017-05-02T15:47:34Z" finished-at="2017-05-02T15:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateUserDetails()[pri:0, instance:com.planit.aviva.scripts.Stratbeans_01@6cc4c815]" name="CreateUserDetails" duration-ms="69703" started-at="2017-05-02T15:47:40Z" finished-at="2017-05-02T15:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.planit.aviva.scripts.Stratbeans_01@6cc4c815]" name="tearDown" is-config="true" duration-ms="1214" started-at="2017-05-02T15:48:49Z" finished-at="2017-05-02T15:48:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.planit.aviva.scripts.Stratbeans_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
