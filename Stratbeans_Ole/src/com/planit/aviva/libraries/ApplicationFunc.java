@@ -25,7 +25,7 @@ public class ApplicationFunc {
 	
 	public static Map<String, String> UserDetails = new HashMap<String, String>();
 	
-	//Login to Application
+	//Login in to Application
 	public static boolean loginToApplication(String userName,String passWord){
 
 		try{
